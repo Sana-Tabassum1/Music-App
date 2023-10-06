@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PeaceTune</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourite_btn">Favourites</string>
+    <string name="playlist_btn">Playlists</string>
+    <string name="total_song">Total Song</string>
+    <string name="world_of_peace">World of Peace</string>
+    <string name="song_name"> Name</string>
+    <string name="back_btn">Back</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading...</string>
+
+    <string name="repeat_btn">Repeat</string>
+    <string name="eqaulzier_btn">Equalizer</string>
+    <string name="timer_btn">Timer</string>
+    <string name="share_btn">Share</string>
+
+    <string name="favourites">Favourites</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_icon">Icon</string>
+    <string name="text_nav">Welcome to\n peacefull world</string>
+    <string name="feedback">Feedback</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="exist">Exist</string>
+    <string name="album_name">Album Name</string>
+    <string name="min_15">15 Minutes</string>
+    <string name="min_30">30 Minutes</string>
+    <string name="min_60">60 Minutes</string>
+    <string name="search_view">Search View</string>
+    <string name="song_img">song Image</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="delet">Delete</string>
+    <string name="user_name">User Name</string>
+    <string name="set_Theme">Set Theme</string>
+    <string name="sort_by">Sort By</string>
+    <string name="version_name">Version Name</string>
+
+
+</resources>

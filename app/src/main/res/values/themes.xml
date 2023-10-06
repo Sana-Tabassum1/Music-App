@@ -1,0 +1,116 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <style name="splash_screen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground" >@drawable/splash_screen</item>
+    </style>
+
+
+    <attr name="ThemeColor" format="color"/>
+    //Theme for Activities
+    <style name="coolPink" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="ThemeColor">@color/cool_pink</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teel_200</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolblue" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="ThemeColor">@color/cool_blue</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teel_200</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolpurple" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="ThemeColor">@color/purple</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teel_200</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolgreen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="ThemeColor">@color/cool_green</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teel_200</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolblack" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="ThemeColor">@color/black</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teel_200</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+
+
+
+    //Theme for drwaer
+    <style name="coolPinkNav" parent="Theme.MaterialComponents.Light">
+        <item name="ThemeColor">@color/cool_pink</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/cool_pink</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolblueNav" parent="Theme.MaterialComponents.Light">
+        <item name="ThemeColor">@color/cool_blue</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/cool_pink</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolpurpleNav" parent="Theme.MaterialComponents.Light">
+        <item name="ThemeColor">@color/purple</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/cool_pink</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolgreenNav" parent="Theme.MaterialComponents.Light">
+        <item name="ThemeColor">@color/cool_green</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/cool_pink</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+    <style name="coolblackNav" parent="Theme.MaterialComponents.Light">
+        <item name="ThemeColor">@color/black</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/cool_pink</item>
+        <item name="colorSecondaryVariant">@color/teel_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/ThemeColor</item>
+    </style>
+</resources>
